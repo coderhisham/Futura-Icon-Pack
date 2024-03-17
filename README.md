@@ -1,3 +1,5 @@
-#Futura Icon Pack
+# Futura Icon Pack
+* Futura Icon Pack is a Futuristic icon pack for Linux / Unix.
+* Futura inherits / is the combination of some of the popular icon packs: Kora (mainly) , Papirus, Tela.
 
-Downlad: https://www.pling.com/p/2123004/
+Download: https://www.pling.com/p/2123004/
